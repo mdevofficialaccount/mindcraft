@@ -1,5 +1,5 @@
 {
-    "OPENAI_API_KEY": "",
+    "OPENAI_API_KEY": "sk-abcdef1234567890abcdef1234567890abcdef12",
     "OPENAI_ORG_ID": "",
     "GEMINI_API_KEY": "",
     "ANTHROPIC_API_KEY": "",
